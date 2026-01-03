@@ -96,6 +96,4 @@ These features may be part of the next update.
 
 ## Maintainers
 This project is mantained by:
-* [Shubhankar Bhadra](http://github.com/shobhi1310)
-* [Darahas Kopparapu](http://github.com/darahask)
 * [Shruti Priya](http://github.com/shruti-shrz)
